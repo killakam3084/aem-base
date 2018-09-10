@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.0.1
 FROM nathonfowlie/centos-jre:latest
-MAINTAINER vzfg38
+MAINTAINER iillmaticc
 
 #Update and install wget
 RUN yum -y update; yum clean all
