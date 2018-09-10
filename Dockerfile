@@ -1,5 +1,5 @@
 # DOCKER-VERSION 1.0.1
-FROM nathonfowlie/centos-jre:latest
+FROM teradatalabs/centos6-java8-oracle 
 MAINTAINER iillmaticc
 
 #Update and install wget
